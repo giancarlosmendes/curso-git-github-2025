@@ -12,3 +12,4 @@ Confira tudo o que temos no YouTube. É gratis!
 Pessoas participantes:
 
 - Téo
+- Gian
