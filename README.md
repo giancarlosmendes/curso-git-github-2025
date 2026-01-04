@@ -57,9 +57,3 @@ Além do nosso YouTube, se liga no nosso site e agende para ficar por dentro de 
 12. excluir `<nova-branch>` do repositório remoto (`origin`)
 13. `git checkout main`
 14. `git branch -D <nova-branch>`
-
----
-
-Pessoas participantes:
-
-- Gian
